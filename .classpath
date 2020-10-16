@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/Prayertime/seaglasslookandfeel-0.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/seifc/workspace/TpsIhm/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
